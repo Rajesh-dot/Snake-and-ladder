@@ -1,3 +1,2 @@
 # My First Programming Project
-new to programming
-Snake and ladder game 
+Simple Snake and ladder game.
